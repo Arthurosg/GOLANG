@@ -1,4 +1,5 @@
 # GOLANG
+
 func TestPasswd(t *testing.T) {
 	var s = new(slapd.Slapd)
 	s.Config = &slapd.DefaultConfig
