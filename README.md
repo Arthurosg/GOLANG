@@ -19,7 +19,7 @@ Caracteristicas Gerais:
 
 ### Linguagem Ultilizada
 <div>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/golang_logo_icon_171073.png"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/golang_logo_icon_171073.png"/>
 </div>
 
 ## Desenvolvido por Arthur Gomes, Uriel Andrade, Vinícius Giovanini - 06/04/2022
