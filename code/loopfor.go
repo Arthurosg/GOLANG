@@ -1,15 +1,30 @@
 //Exemplo para somar numeros inteiros com loop 50x
 
 package main
+
 import "fmt"
 
 func main() {
-    var n, sum = 10, 0
-		n = 50;
-  
-    for i := 1 ; i <= n; i++ {
-      sum += i    // sum = sum + i  
+
+    i := 1
+    for i <= 3 {
+        fmt.Println(i)
+        i = i + 1
     }
 
-    fmt.Println("sum =", sum)
+    for j := 7; j <= 9; j++ {
+        fmt.Println(j)
+    }
+
+    for {
+        fmt.Println("loop")
+        break
+    }
+
+    for n := 0; n <= 5; n++ {
+        if n%2 == 0 {
+            continue
+        }
+        fmt.Println(n)
+    }
 }
