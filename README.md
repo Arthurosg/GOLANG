@@ -28,8 +28,8 @@ Caracteristicas Gerais:
 
 ## Andamento do Trabalho 📝
 
-☐ Documentação
-☑️ Exemplos
+☐ Documentação  
+☑️ Exemplos  
 ☐ Vídeo
 
 ## Desenvolvimento ✏️
