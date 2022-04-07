@@ -20,6 +20,12 @@ Caracteristicas Gerais:
 - Segura, pois é fortemente tipada;
 - Moderna, contando, por exemplo, com suporte embutido na própria linguagem para aplicações distribuídas em rede multicor.
 
+## Links
+
+- A documentação principal se encontra AQUI.
+- A documentação de exemplos se encontra [AQUI].(https://github.com/Arthurosg/GOLANG/blob/main/doc/Exemplo_de_Codigo_GOLANG.pdf)
+- O vídeo se encontra AQUI.
+
 ## Andamento do Trabalho 📝
 
 ☐ Documentação  
