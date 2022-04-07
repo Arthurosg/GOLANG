@@ -20,17 +20,17 @@ Caracteristicas Gerais:
 - Segura, pois é fortemente tipada;
 - Moderna, contando, por exemplo, com suporte embutido na própria linguagem para aplicações distribuídas em rede multicor.
 
-## Linguagem Ultilizada
-
-<div>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/golang_logo_icon_171073.png"/>
-</div>
-
 ## Andamento do Trabalho 📝
 
 ☐ Documentação  
 ☑️ Exemplos  
 ☐ Vídeo
+
+## Linguagem Ultilizada
+
+<div>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/golang_logo_icon_171073.png"/>
+</div>
 
 ## Desenvolvimento ✏️
 
