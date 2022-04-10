@@ -22,7 +22,7 @@ Caracteristicas Gerais:
 
 ## Links
 
-- A documentação principal se encontra AQUI.
+- A documentação principal se encontra [AQUI](https://github.com/Arthurosg/GOLANG/blob/main/doc/Finalizado_DOC_Sintaxe_Semantica___GOLANG.pdf).
 - A documentação de exemplos se encontra [AQUI](https://github.com/Arthurosg/GOLANG/blob/main/doc/Exemplo_de_Codigo_GOLANG.pdf).
 - O vídeo se encontra [AQUI](https://youtu.be/t8igl3FNkeY).
 
