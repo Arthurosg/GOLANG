@@ -24,13 +24,13 @@ Caracteristicas Gerais:
 
 - A documentação principal se encontra AQUI.
 - A documentação de exemplos se encontra [AQUI](https://github.com/Arthurosg/GOLANG/blob/main/doc/Exemplo_de_Codigo_GOLANG.pdf).
-- O vídeo se encontra AQUI.
+- O vídeo se encontra [AQUI](https://youtu.be/t8igl3FNkeY).
 
 ## Andamento do Trabalho 📝
 
-☐ Documentação  
+☑️ Documentação  
 ☑️ Exemplos  
-☐ Vídeo
+☑️ Vídeo
 
 ## Linguagem Ultilizada
 
